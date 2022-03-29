@@ -8,8 +8,11 @@ The objective of the project is to help professionals, as well as students, star
 1. Brainstorming
 1. Backend database architecture
 1. Frontend (Static) Outline
-1. Outline to Static HTML
 1. Git and Github
+1. Outline to Static HTML and CSS
+1. Responsive design and Media Queries
+1. Javascript or jQuery?
+1. Regular CSS or Bootstrap or Tailwind CSS ?
 1. AMP installation
 1. Static to Dynamic Conversion
 
