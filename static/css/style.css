@@ -1,0 +1,54 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.hidden{
+  display: none;
+}
+
+#mainHeader{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #133838;
+  color: #fff;
+  align-items: center;
+}
+
+#mainHeader a{
+  color: #fff;
+}
+
+#headerUserMenu{
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 32px;
+}
+
+#userDropDown{
+  list-style: none;
+  position: absolute;
+  background: #0a4141;
+  padding: 12px;
+  right: 0;
+}
+
+#userDropDown li{
+  padding-bottom: 10px;
+}
+
+#mainContent{
+  display: flex;
+  max-width: 80%;
+  margin: auto;
+}
+
+#mainContent .sidebar{
+  width: 20%;
+}
+
+#mainContent .mainBox{
+  width: 80%;
+}
